@@ -10,7 +10,7 @@ name: techtrends
 #on: [push]
 on:
   push:
-    branches: [ master ]
+    branches: [ main ]
   #pull_request:
    # branches: [ master ]
 
